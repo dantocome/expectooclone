@@ -104,3 +104,18 @@ button{
 button:hover{
     background-color:coral;
 }
+.comfort{
+    margin-top: 10%;
+    background-color: white;
+    text-align: center;
+}
+h2{
+    text-indent: 27px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#one{
+    color: black;
+    line-height: 30px;
+
+}
+
