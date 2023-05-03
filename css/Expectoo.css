@@ -118,4 +118,27 @@ h2{
     line-height: 30px;
 
 }
+.yoo{
+    color: black;
+}
+#yes{
+    color: black;
+}
+.yet{
+    color: black;
+}
+.comfort2{
+    display: flex;
+    gap: 80px;
+    padding: 50px;
+    justify-content: center;
+    align-items: center;
+
+}
+.left{
+  padding-right: 200px;
+}
+.right{
+    padding-right: 120px;
+}
 
