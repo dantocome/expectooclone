@@ -160,7 +160,7 @@ h2{
     flex-direction: row;
 }
 .clien{
- padding-left: 50px;
+ padding-left: 1px;
  padding-top: 50px;
 }
 .ex{
@@ -191,7 +191,7 @@ h2{
     font-size: 25px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
-    padding-left: 150px;
+    padding-left: 100px;
 
 }
 #joint{
@@ -230,19 +230,20 @@ h2{
 .main2{
     display: flex;
     margin-top: 50px;
-    padding-left: 500px;
+    padding-left: 450px;
+    
 }
 .cont4{
-    padding-left: 300px;
+    padding-left: 200px;
     padding-top: 20px;
     color: white;
-    margin-right: 320px;
 }
 .cont4 li a{
     color: white;
     text-decoration: none;
     line-height: 40px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 10px;
 }
 #com{
     line-height: 50px;
@@ -256,6 +257,7 @@ h2{
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 20px;
+    width: 150px;
 }
 .cont3 li a{
     text-decoration: none;
@@ -263,5 +265,17 @@ h2{
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 18px;
+}
+#fit{
+    color: white;
+    margin-top: 200px;
+    text-align: center;
+    border-top: 1px solid white;
+    width: 700px;
+
+}
+.footer{
+    padding-bottom: 50px;
+    padding-left: 300px;
 }
 
