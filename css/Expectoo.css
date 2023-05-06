@@ -279,3 +279,28 @@ h2{
     padding-left: 300px;
 }
 
+@media (max-width: 400px){
+    .container{
+        display: flex;
+        flex-direction: row;
+    }
+}
+@media (max-width: 400px){
+    .comfort{
+        display: flex;
+        flex-direction: row;
+    }
+}
+@media (max-width: 400px){
+    .main{
+        display: flex;
+        flex-direction: row;
+    }
+
+}
+@media (max-width: 400px){
+    .footer{
+        display: flex;
+        flex-direction: row;
+    }
+}
